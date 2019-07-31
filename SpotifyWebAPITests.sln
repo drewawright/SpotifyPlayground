@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyWebAPITests", "SpotifyWebAPITests\SpotifyWebAPITests.csproj", "{B296636D-AC6A-4F3D-9DFA-B7125CC507BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyWebApiUnitTests", "SpotifyWebApiUnitTests\SpotifyWebApiUnitTests.csproj", "{8E647DF6-4E1D-4D38-B231-55FCAD246BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B296636D-AC6A-4F3D-9DFA-B7125CC507BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B296636D-AC6A-4F3D-9DFA-B7125CC507BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B296636D-AC6A-4F3D-9DFA-B7125CC507BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B296636D-AC6A-4F3D-9DFA-B7125CC507BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E647DF6-4E1D-4D38-B231-55FCAD246BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E647DF6-4E1D-4D38-B231-55FCAD246BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E647DF6-4E1D-4D38-B231-55FCAD246BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E647DF6-4E1D-4D38-B231-55FCAD246BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DAA201-8A8F-4C51-89B3-AEC7A234E7A3}
+	EndGlobalSection
+EndGlobal
